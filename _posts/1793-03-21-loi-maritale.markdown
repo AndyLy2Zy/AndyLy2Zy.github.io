@@ -1,11 +1,8 @@
 ---
-layout: post
 title: 机器学习，如何快速选择学习算法？
 author: Andy Ly
 date:   2022-10-13
-category: liberty
 keywords: 机器学习
-abstract: En ordonnant aux troupes de marcher contre les citoyens assemblés, il anéantit la nation, qui n'existe que par la réunion des individus.
 ---
 
 现今机器学习（Mechain Learning）可谓是火的不行，会不会的都有兴趣来捣鼓两下，我也是一样。可是一提到机器学习，就出来一大堆什么模型啊，框架啊等等，原来不管什么模型框架，其实学习主要的`还是选择的算法`。那么现如今主要涉及机器学习的算法主要有哪些呢？专业人员【老鸟】是怎样一下就选择出***最佳***的算法的呢？这才是像我这种初学者【菜鸟】首先应该关心的问题。
