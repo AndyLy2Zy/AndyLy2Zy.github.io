@@ -1,6 +1,6 @@
 # Marat
 
-![AndyLy](https://github.com/AndyLy2Zy/AndyLy2Zy.github.io/assets/img/)
+![AndyLy](https://github.com/AndyLy2Zy/AndyLy2Zy.github.io/blob/main/assets/img/michael-rose-photo.jpg)
 
 Revive the values of the Enlightenment with `marat`.
 
