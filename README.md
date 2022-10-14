@@ -1,6 +1,6 @@
 # Marat
 
-![Marat](https://raw.githubusercontent.com/JohnCoene/marat/master/assets/img/screenshot.png)
+![AndyLy](https://github.com/AndyLy2Zy/AndyLy2Zy.github.io/assets/img/)
 
 Revive the values of the Enlightenment with `marat`.
 
