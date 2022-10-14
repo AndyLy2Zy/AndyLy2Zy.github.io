@@ -16,15 +16,15 @@
 title: Andy Ly | Andy Blog
 email: andy125818ly@gmail.com
 description: >
-  Journal politique impartial, <br>
-  Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
-  du Moniteur et du Plan de Constitution, etc.
-tagline: vitam impendere vero
-location: Versailles
+  YiLei from china, <br>
+  In order to live in US better, he also called AndyLy, <br>
+  Hope he will be better in LA, etc.
+tagline: [在知识的海洋中遨游，无所谓方向]
+location: Los Angeles
 date: true
 baseurl: "/marat" # the subpath of your site, e.g. /blog
 url: "http://johncoene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Jean-Paul Marat
+author: Andy Ly
 google_analytics: UA-101394056-1
 
 # SEO
