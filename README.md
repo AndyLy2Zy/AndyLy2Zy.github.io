@@ -2,7 +2,7 @@
 
 ![AndyLy](https://github.com/AndyLy2Zy/AndyLy2Zy.github.io/blob/main/assets/img/bg_hacker02.jpg)  
 
-[Refference](https://yuleii.github.io/2020/06/09/build-blog-with-github-pages-and-jekyll.html)
+[Refference](https://yuleii.github.io/2020/06/09/build-blog-with-github-pages-and-jekyll.html "博客搭建方法")
 
 Revive the values of the Enlightenment with `marat`.
 
