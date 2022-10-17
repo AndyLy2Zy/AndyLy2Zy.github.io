@@ -1,6 +1,6 @@
 # [Wellcome to Andy Ly](https://andyly2zy.github.io/)
 
-[AndyLy](https://github.com/AndyLy2Zy/AndyLy2Zy.github.io/blob/main/assets/img/bg_hacker02.jpg)（https://blog.csdn.net/K346K346/article/details/108162853） 
+![AndyLy](https://github.com/AndyLy2Zy/AndyLy2Zy.github.io/blob/main/assets/img/bg_hacker02.jpg)[修改图片]（https://blog.csdn.net/K346K346/article/details/108162853） 
 
 [Refference](https://yuleii.github.io/2020/06/09/build-blog-with-github-pages-and-jekyll.html "博客搭建方法")  
 
