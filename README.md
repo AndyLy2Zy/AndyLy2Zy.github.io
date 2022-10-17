@@ -6,7 +6,7 @@
 
 [Markdown](https://markdown.com.cn/basic-syntax/links.html "Markdown写作")
 
-`**每一个不曾让让生命起舞的日子，都是对时间的浪费**`
+**每一个不曾让让生命起舞的日子，都是对时间的浪费**
 
 See [Marat in action](http://marat.john-coene.com).
 
