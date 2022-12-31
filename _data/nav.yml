@@ -1,6 +1,8 @@
 social:
   - title: github
     href: "https://github.com/leiyi-ihb?tab=repositories"
+  - title: cnblog
+    href: "https://www.cnblogs.com/ly-zy/"
   #- title: twt
   #  href: "https://twitter.com/jdatap"
   #- title: lnk
