@@ -41,10 +41,10 @@ facebook:
 social:
   name: John Coene
   links:
-    - https://twitter.com/jdatap
-    - https://www.linkedin.com/in/johncoene
-    - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
+#    - https://twitter.com/jdatap
+#   - https://www.linkedin.com/in/johncoene
+#    - https://plus.google.com/109009224717674019651
+#    - https://github.com/JohnCoene
 
 # Build settings
 exclude: README.md
